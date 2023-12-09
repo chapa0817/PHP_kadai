@@ -33,7 +33,7 @@ $orderAsc = true; // 昇順
 $orderDesc = false; // 降順
 
 sort_2way($nums, $orderAsc);
-
+sort_2way($nums, $orderDesc);
 ?>
     </p>
 </body>
